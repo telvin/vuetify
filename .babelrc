@@ -24,7 +24,7 @@
         ["es2015",  {"modules": false}],
         ["stage-2"]
       ],
-      "plugins": ["add-filehash"]
+      "plugins": ["add-filehash", "./build/require.js"]
     },
     "production": {
       "presets": [

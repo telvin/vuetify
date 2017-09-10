@@ -523,6 +523,10 @@ babel-plugin-check-es2015-constants@^6.22.0:
   dependencies:
     babel-runtime "^6.22.0"
 
+babel-plugin-detective@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-detective/-/babel-plugin-detective-2.0.0.tgz#6e642e83c22a335279754ebe2d754d2635f49f13"
+
 babel-plugin-istanbul@^2.0.0:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/babel-plugin-istanbul/-/babel-plugin-istanbul-2.0.3.tgz#266b304b9109607d60748474394676982f660df4"
